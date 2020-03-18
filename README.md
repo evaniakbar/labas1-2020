@@ -3,6 +3,7 @@ Di kuliah Laboratorium Astronomi Dasar I (AS2020) kamu akan belajar tentang peng
 
 |----|------------------------------------------------------------------------|-------------|
 | No | Kegiatan                                                               | Tanggal     |
+|----|------------------------------------------------------------------------|-------------|
 | 1  | Penjelasan silabus                                                     | (14/1 2020) |
 | 1  | Kurir informasi astrofisika                                            | (14/1 2020) |
 | 2  | Kurir informasi astrofisika                                            | (21/1 2020) |
