@@ -1,7 +1,7 @@
 # labas1-2020
 Di kuliah Laboratorium Astronomi Dasar I (AS2020) kamu akan belajar tentang pengetahuan dasar pengamatan astronomi sebelum melakukan kegiatan pengamatan di kuliah berikutnya, Laboratorium Astronomi Dasar II. 
 
-|----|------------------------------------------------------------------------|-------------|
+
 | No | Kegiatan                                                               | Tanggal     |
 |----|------------------------------------------------------------------------|-------------|
 | 1  | Penjelasan silabus                                                     | (14/1 2020) |
@@ -36,4 +36,4 @@ Di kuliah Laboratorium Astronomi Dasar I (AS2020) kamu akan belajar tentang peng
 |    | Lab: Membuat rencana pengamatan                                        |             |
 | 17 | Diskusi dan latihan soal                                               | (28/4 2020) |
 | 18 | Ujian Akhir Semester                                                   |             |
-|----|------------------------------------------------------------------------|-------------|
+
