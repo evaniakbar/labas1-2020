@@ -3,8 +3,11 @@ Di kuliah Laboratorium Astronomi Dasar I (AS2020) kamu akan belajar tentang peng
 
 |----|------------------------------------------------------------------------|-------------|
 | 1  | Penjelasan silabus                                                     | (14/1 2020) |
+|----|------------------------------------------------------------------------|-------------|
 | 1  | Kurir informasi astrofisika                                            | (14/1 2020) |
+|----|------------------------------------------------------------------------|-------------|
 | 2  | Kurir informasi astrofisika                                            | (21/1 2020) |
+|----|------------------------------------------------------------------------|-------------|
 |    | Lab: Pengenalan teleskop optik dan   mounting di Observatorium Bosscha |             |
 | 3  | Kolektor, Analisator dan Detektor Informasi Astrofisika                | (28/1 2020) |
 |    | Lab: Pengamatan matahari dengan teleskop portable                      |             |
